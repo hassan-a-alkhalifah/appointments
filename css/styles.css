@@ -1,0 +1,8 @@
+.btn-default {
+  background-color: #666;
+  color: #EEE;
+}
+
+#output {
+  display: none;
+}
